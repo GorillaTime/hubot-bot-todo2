@@ -1,0 +1,1 @@
+web: env HUBOT_SLACK_TOKEN=xoxb-1000857939844-988528318802-ZRMgYNnn5WrDOgdcNAn8TolD bin/hubot --adapter slack
